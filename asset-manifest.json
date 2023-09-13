@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactReducer/static/css/main.073c9b0a.css",
+    "main.js": "/reactReducer/static/js/main.97211d8e.js",
+    "index.html": "/reactReducer/index.html",
+    "main.073c9b0a.css.map": "/reactReducer/static/css/main.073c9b0a.css.map",
+    "main.97211d8e.js.map": "/reactReducer/static/js/main.97211d8e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.97211d8e.js"
+  ]
+}
